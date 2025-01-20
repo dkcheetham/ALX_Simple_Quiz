@@ -1,4 +1,3 @@
-// Quiz functionality
 document.addEventListener('DOMContentLoaded', function () {
     function checkAnswer() {
         const correctAnswer = "4";
